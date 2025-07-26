@@ -39,3 +39,5 @@ resource "helm_release" "grafana" {
   values     = lookup(var.values, "grafana", {})
   depends_on = [helm_release.prometheus_stack]
 }
+
+
