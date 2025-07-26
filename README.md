@@ -255,8 +255,4 @@ Contributions, issues, and feature requests are welcome!
 * [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 * [Karpenter Autoscaler](https://karpenter.sh/)
 * [AWS Load Balancer Controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/)
-
-
-
-If you want me to generate the full Terraform module or helper scripts next, just ask!
 ```
